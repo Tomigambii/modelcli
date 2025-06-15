@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-pip install .
+pip install modelcli
 ```
 
 ## Commands
