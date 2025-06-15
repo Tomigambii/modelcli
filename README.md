@@ -118,18 +118,6 @@ modelcli translate "Bonjour tout le monde" --model llama3
 
 ---
 
-## 📦 Publish to PyPI
-
-This project includes GitHub Actions to publish automatically when you push a version tag like `v0.0.4`.
-
-To trigger the publish workflow:
-
-```bash
-git tag v0.0.4
-git push origin v0.0.4
-```
-
----
 
 ## 🤝 Contributing
 
@@ -139,4 +127,4 @@ Feel free to open pull requests or issues.
 
 ## 📜 License
 
-MIT License © 2024 Hans Ampelmann
+MIT License © 2024 Tomás Gambirassi
